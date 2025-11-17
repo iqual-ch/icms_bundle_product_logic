@@ -1,0 +1,5 @@
+name: 'ICMS Product Logic'
+type: module
+description: 'Provides deployment hooks and update functions for the ICMS Product bundle.'
+package: Custom
+core_version_requirement: ^10 || ^11
